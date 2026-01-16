@@ -65,6 +65,10 @@ Meat Blobs
 Brain Growers
 Upside Down Brain Growers
 
+-Material
+Pattern Depth
+Pattern Chaos
+
 -LB Plants
 Colored Hang Roots
 Colored Thick Roots

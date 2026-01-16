@@ -1,6 +1,6 @@
 [submodule "src/Drizzle"]
 	path = src/Drizzle
-	url = https://github.com/mothth/Drizzle
+	url = https://github.com/ofincandescence/Drizzle
 	branch = embedded-dev
 [submodule "ImGui.NET"]
 	path = src/ImGui.NET
